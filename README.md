@@ -1,7 +1,7 @@
 ## Here customer will scan the QR code in restaurent and they will automatically get inside the app then they will able to choose foods from the menue and order them to their table.
 
 
-##
+## ----- Next ---
 
 ![20230715_105702](https://github.com/kamruzzaman526/Flutter_app_project/assets/79442039/13c7f0fd-25fa-427a-8365-b64bc4553c8e)
 
